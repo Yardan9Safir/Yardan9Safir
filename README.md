@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 Fullstack Developer 🚀 | Crafting sleek frontends & powerful backends 💡 | Skilled in Next.js, Node.js, and modern databases like MongoDB & PostgreSQL ⚙️ | Exploring DevOps and scalable architecture for future-ready apps 🌐 | Blending logic and creativity to build impactful end-to-end digital solutions. Let’s create boundary-breaking innovations together! 🔥
 
    <p align="left">
-      <a href="https://github.com/AkbarFahreza?tab=followers">
+      <a href="https://github.com/Yardan9Safir?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Yardan9Safir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/AkbarFahreza?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Yardan9Safir?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Yardan9Safir?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
@@ -39,8 +39,6 @@ Fullstack Developer 🚀 | Crafting sleek frontends & powerful backends 💡 | S
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-
-<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
 
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
