@@ -47,7 +47,7 @@ Fullstack Developer 🚀 | Crafting sleek frontends & powerful backends 💡 | S
 <br />
 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yardan9Safir&layout=compact&langs_count=20&theme=algolia"/>
+<!--## Hi there <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yardan9Safir&layout=compact&langs_count=20&theme=algolia"/>👋-->
 
 ### 📺 Contact
 
