@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Yardan9Safir
 
-**`Junior Designer/ Junior Frontend Developer`**
+**`Junior Fullstack Developer`**
 
 Fullstack Developer 🚀 | Crafting sleek frontends & powerful backends 💡 | Skilled in Next.js, Node.js, and modern databases like MongoDB & PostgreSQL ⚙️ | Exploring DevOps and scalable architecture for future-ready apps 🌐 | Blending logic and creativity to build impactful end-to-end digital solutions. Let’s create boundary-breaking innovations together! 🔥
 
